@@ -1,0 +1,14 @@
+.click_x,
+.click_y {
+    border-radius: 0%;
+    font-size: 60px;
+}
+
+.click_x{
+    background-color: black;
+    color: white;
+}
+
+.click_y{
+    background-color: yellow;
+}
